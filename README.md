@@ -1,5 +1,7 @@
 # Curso de Node.js desde cero - Midudev 🎓
 
+> Instalación de Node.js [aquí](./install.md)
+
 ## Ejecutar con Node.js
 
 ```bash
